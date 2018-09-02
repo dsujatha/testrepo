@@ -11,21 +11,6 @@ def highlight_differences(val):
     color = 'yellow' if "--->" in str(val) else 'white'
     return 'background-color: %s' % color
 
-  
-
-def color_negative_red(val):
-    """
-    Takes a scalar and returns a string with
-    the css property `'color: red'` for negative
-    strings, black otherwise.
-    """
-    color = 'red' if val < 3 else 'black'
-    return 'color: %s' % color
-
-#df.style.apply(lambda x: ["background: red" if v > x.iloc[0] else "" for v in x], axis = 1)
-#print(df)
-
-
 
 
 df.style.\
