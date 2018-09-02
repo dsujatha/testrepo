@@ -7,7 +7,6 @@ df = pd.read_excel('my-diff-2.xlsx', 'changed', na_values=['NA'])
 
 
 def highlight_differences(val):
-    print(val)
     color = 'yellow' if "--->" in str(val) else 'white'
     return 'background-color: %s' % color
 
