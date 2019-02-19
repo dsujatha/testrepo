@@ -1,0 +1,7 @@
+296620--> DELETED,"{'city': 'McCulloughstad', 'name': 'Schamberger, Hagenes and Brown', 'state': 'Alaska', 'street': '26340 Ferry Neck Apt. 612', 'postal_code': '74052', 'account_number': '296620'}"
+985603--> Modified ,"[{'oldValue': '19033', 'ModifiedCol': 'postal_code', 'newValue': '86014'}]"
+935480--> Modified ,"[{'oldValue': 'Bruen and Jones Group', 'ModifiedCol': 'name', 'newValue': 'Bruen Group'}]"
+214098--> New ,"{'city': 'Rosaberg', 'name': 'Goodwin, Homenick and Jerde', 'state': 'Colorado', 'street': '649 Cierra Forks Apt. 078', 'postal_code': '47743', 'account_number': '214098'}"
+121213--> New ,"{'city': 'Shanahanchester', 'name': 'Bauch-Goldner', 'state': 'California', 'street': '7274 Marissa Common', 'postal_code': '49681', 'account_number': '121213'}"
+132971--> Modified ,"[{'oldValue': '6278', 'ModifiedCol': 'postal_code', 'newValue': '62785'}]"
+566618--> New ,"{'city': 'South Tamica', 'name': 'Greenfelder, Wyman and Harris', 'state': 'Colorado', 'street': '17557 Romaguera Field', 'postal_code': '50037', 'account_number': '566618'}"
