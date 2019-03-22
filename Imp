@@ -1,4 +1,0 @@
-http://www.oracle.com/technetwork/articles/dsl/python-091105.html -  Oracle 
-https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.bar.html - graphs
-Export data to csv to compare - done  - pandas support it - Refer MysqlTest.py in github
-DateFormat : https://stackoverflow.com/questions/45774737/how-to-compare-date-from-csvstring-to-actual-date
