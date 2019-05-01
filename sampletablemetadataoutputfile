@@ -1,0 +1,7 @@
+CREATE TABLE customers(Name varchar2 NOT NULL  
+,TEST_ID Number NOT NULL  
+,TEST_UTC_DATETIME Timestamp   
+,notes CLOB NOT NULL  
+);
+INSERT INTO TABLE customers (Name,TEST_ID,TEST_UTC_DATETIME,notes) VALUES ('testing',11,to_date(2018-09-03 00:26:45.810000,'yyyy-mm-dd hh24:mi:ss:SSSSS'),notes);
+INSERT INTO TABLE customers (Name,TEST_ID,TEST_UTC_DATETIME,notes) VALUES ('testing12',12,to_date(2018-09-04 00:26:45.810000,'yyyy-mm-dd hh24:mi:ss:SSSSS'),notes12);
