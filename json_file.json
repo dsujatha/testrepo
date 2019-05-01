@@ -1,0 +1,32 @@
+{
+	"customers": {
+		"metadata": [{
+				"Fields": [{
+						"col_name": "Name",
+						"data_type": "varchar2",
+						"is_nullable": "False"
+					},
+					{
+						"col_name": "TEST_ID",
+						"data_type": "Number",
+						"is_nullable": "False"
+					},
+					{
+						"col_name": "TEST_UTC_DATETIME",
+						"data_type": "Timestamp",
+						"is_nullable": "True"
+					},
+					{
+						"col_name": "notes",
+						"data_type": "CLOB",
+						"is_nullable": "False"
+					}
+				]
+			}, {
+				"primary_key": "CMX_TRANS_ID"
+			}
+		],
+		"records": [{"TEST_ID": "11","Name": "testing","TEST_UTC_DATETIME": "2018-09-03 00:26:45.810000","notes":"notes"},
+		{"TEST_ID": "12","Name": "testing12","TEST_UTC_DATETIME": "2018-09-04 00:26:45.810000","notes":"notes12"}]
+	}
+}
